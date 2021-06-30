@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+I am David Silva, Applied Physiscs Phd Student. I do research on electronic noses and gas sensors.
+
+### Known programming languages
+
+-Assembly
+-Python
+-MATLAB
+
+### I am currently learning
+
+-Python
+-C
+
+### Where to find me
+
+- [LinkedIn](https://www.linkedin.com/in/david-silva-apango-60553714a/)
+- [Twitter](https://twitter.com/DavidSA06)
+- [Platzi](https://platzi.com/p/davidsilvaa/)
+
 <!--
 **DavidSA06/DavidSA06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
