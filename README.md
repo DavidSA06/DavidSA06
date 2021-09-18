@@ -2,19 +2,22 @@
 
 I am David Silva, MSc in Applied Physiscs. I did research on electronic noses and gas sensors and I am interested in Data Science.
 
-### Known programming languages
+### The main programming languages I have worked on
 
 - Assembly (for PICs) 
 - Python
 - MATLAB
 - C
 
-### I am interested on
+### The softwares and technologies with which I am familiar
 
-- C++
-- HTML
-- CSS
-- JavaScript
+- MATLAB
+- Minitab
+- MPLAB
+- LabView
+- GIT and GitHub
+- Excel
+- Texmaker
 
 ### Where to find me
 
