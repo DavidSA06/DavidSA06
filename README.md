@@ -9,7 +9,7 @@ I am David Silva, MSc in Applied Physiscs. I did research on electronic noses an
 - MATLAB
 - C
 
-### The softwares and technologies with which I am familiar
+### Software and technology that I am familiar with.
 
 - MATLAB
 - Minitab
@@ -18,12 +18,14 @@ I am David Silva, MSc in Applied Physiscs. I did research on electronic noses an
 - GIT and GitHub
 - Excel
 - Texmaker
+- Arduino
 
 ### Where to find me
 
 - [LinkedIn](https://www.linkedin.com/in/david-silva-apango-60553714a/)
 - [Twitter](https://twitter.com/DavidSA06)
 - [GitHub Page](https://davidsa06.github.io/)
+- [GITSTARS](https://git-stars.com/user/DavidSA06) (Ranking)
 - [Platzi](https://platzi.com/p/davidsilvaa/)
 - [Deepnote](https://deepnote.com/@david-silva-apango)
 
