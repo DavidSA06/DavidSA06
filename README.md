@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am David Silva, MSc in Applied Physiscs. I did research on electronic noses and gas sensors and I am interested in Data Science.
+I am David Silva, MSc in Applied Physics. I did my research on electronic noses and gas sensors and I am interested in Data Science.
 
 ### The main programming languages I have worked on
 
@@ -19,6 +19,7 @@ I am David Silva, MSc in Applied Physiscs. I did research on electronic noses an
 - Excel
 - Texmaker
 - Arduino
+- Google Colab
 
 ### Where to find me
 
