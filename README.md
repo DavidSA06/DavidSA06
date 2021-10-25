@@ -11,15 +11,16 @@ I am David Silva, MSc in Applied Physics. I did my research on electronic noses 
 
 ### Software and technology that I am familiar with.
 
-- MATLAB
 - Minitab
 - MPLAB
+- Excel
+- MATLAB
 - LabView
 - GIT and GitHub
-- Excel
 - Texmaker
 - Arduino
 - Google Colab
+- [Deepnote](https://deepnote.com/@david-silva-apango)
 
 ### Where to find me
 
@@ -28,7 +29,6 @@ I am David Silva, MSc in Applied Physics. I did my research on electronic noses 
 - [GitHub Page](https://davidsa06.github.io/)
 - [GITSTARS](https://git-stars.com/user/DavidSA06) (Ranking)
 - [Platzi](https://platzi.com/p/davidsilvaa/)
-- [Deepnote](https://deepnote.com/@david-silva-apango)
 
 <!--
 **DavidSA06/DavidSA06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
