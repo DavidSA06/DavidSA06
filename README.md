@@ -21,6 +21,7 @@ I am David Silva, MSc in Applied Physics. I did my research on electronic noses 
 - Arduino
 - Google Colab
 - [Deepnote](https://deepnote.com/@david-silva-apango)
+- [Tableau](https://public.tableau.com/app/profile/david.silva2663)
 
 ### Where to find me
 
