@@ -2,26 +2,28 @@
 
 I am David Silva, MSc in Applied Physics. I did my research on electronic noses and gas sensors and I am interested in Data Science.
 
-### The main programming languages I have worked on
+### the code I have worked on
 
-- Assembly (for PICs) 
-- Python
-- MATLAB
+- Assembly (for PICs)
 - C
+- CSS
+- HTML
+- MATLAB
+- Python
 
 ### Software and technology that I am familiar with.
 
+- Arduino
+- [Deepnote](https://deepnote.com/@david-silva-apango)
+- Excel
+- GIT and GitHub
+- Google Colab
+- LabView
+- MATLAB
 - Minitab
 - MPLAB
-- Excel
-- MATLAB
-- LabView
-- GIT and GitHub
-- Texmaker
-- Arduino
-- Google Colab
-- [Deepnote](https://deepnote.com/@david-silva-apango)
 - [Tableau](https://public.tableau.com/app/profile/david.silva2663)
+- Texmaker
 
 ### Where to find me
 
