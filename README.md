@@ -3,38 +3,26 @@
 I am David Silva, MSc in Applied Physics. I did my research on electronic noses and gas sensors and I am interested in Data Science.
 
 ### Software and technology that I am familiar with.
-
-- Arduino
-- Assembly (for PICs)
-- [Deepnote](https://deepnote.com/@david-silva-apango)
-- Excel
-- GIT and GitHub
-- Google Colab
-- LabView
-- MATLAB
-- Minitab
-- MPLAB
-- [Tableau](https://public.tableau.com/app/profile/david.silva2663)
-- Texmaker
-
-<!--
+      
 <div id="icons">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino Icon"/>
   <a href="https://deepnote.com/@david-silva-apango">
-    <img height="50" src=""/></svg>" alt="Deepnote Icon"/>
+    <img src="https://avatars.githubusercontent.com/u/45339858?s=200&v=4" width="50" height="50"  alt="Deepnote Icon"/>
   </a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="git Icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub Icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5 Icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="jupyter Icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" width="50" height="50" alt="LabView"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50" alt="Latex Icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50" alt="MATLAB Icon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" width="50" height="50" alt="Minitab Icon"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="50" height="50" alt="Numpy Icon"/>
-     
-  <a href="">
-    <img src="https://public.tableau.com/app/profile/david.silva2663" alt="Tableau Icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="Numpy Icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python Icon"/>
+  <a href="https://public.tableau.com/app/profile/david.silva2663">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50" alt="Tableau Icon"/>
   </a>
 <div>
--->
 
 ### Where to find me
 
