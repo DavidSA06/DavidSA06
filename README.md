@@ -66,6 +66,10 @@ I am David Silva, MSc in Applied Physics. I did my research on electronic noses 
 ![DavidSA06's github stats](https://github-readme-stats.vercel.app/api?username=DavidSA06&show_icons=true&theme=tokyonight)
 
 <!--
+[![DavidSA06's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DavidSA06&&theme=tokyo-night)](https://github.com/DavidSA06/github-readme-activity-graph)
+-->
+      
+<!--
 **DavidSA06/DavidSA06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
