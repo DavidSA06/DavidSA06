@@ -15,7 +15,7 @@ I am David Silva, MSc in Applied Physics. I did my research on electronic noses 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="jupyter Icon" title="jupyter notebook"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" width="50" height="50" alt="LabView Icon" title="LabView"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50" alt="Latex Icon" alt="Latex Icon" title="LATEX"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50" alt="MATLAB Icon" title="LATEX"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50" alt="MATLAB Icon" title="MATLAB"/>
   <img src="https://companieslogo.com/img/orig/MCHP-167156da.png?t=1648759881" width="50" height="50" alt="Microchip Icon" title="Microchip"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" width="50" height="50" alt="Minitab Icon" title="Minitab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="Numpy Icon" title="Numpy"/>
