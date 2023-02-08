@@ -31,14 +31,13 @@ I am David Silva, MSc in Applied Physics. I did my research on electronic noses 
   <a href="https://davidsa06.github.io/">
     <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="Github Pages Badge"/>
   </a>
-  <a href="johzu.com">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Platzi Badge"/>
+  <a href="https://johzu.com">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Johzu Badge"/>
   </a>
   <a href="https://platzi.com/p/davidsilvaa/">
     <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi Badge"/>
   </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/GIT%20STARS-ranking-red" alt=""/>
+  <img src="https://img.shields.io/badge/GIT%20STARS-ranking-red" alt="Gitstars Badge"/>
 </div>
 
 ### 📫 How to reach me:
