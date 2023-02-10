@@ -37,7 +37,25 @@ I am David Silva, MSc in Applied Physics. I did my research on electronic noses 
   <a href="https://platzi.com/p/davidsilvaa/">
     <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/GIT%20STARS-ranking-red" alt="Gitstars Badge"/>
+  <a href="https://deepnote.com/@david-silva-apango">
+    <img src="https://img.shields.io/badge/Deepnote-3793EF?style=for-the-badge&logo=Deepnote&logoColor=white" alt="Deepnote Badge"/>
+  </a>
+  <a href="https://public.tableau.com/app/profile/david.silva2663">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge"/>
+  </a>
+  <a href="https://replit.com/@DavidSA061">
+    <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge"/>
+  </a>
+  <a href="duolingo.com/profile/jaeger06">
+    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo Badge"/>
+  </a>
+  <a href="https://davidsilvaapango.gumroad.com/">
+    <img src="https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad Badge"/>
+  </a>
+  <a href="https://git-stars.com/user/DavidSA06">
+    <img src="https://img.shields.io/badge/GIT%20STARS-ranking-red" alt="Git Stars Badge"/>
+  </a>
+  
 </div>
 
 ### 📫 How to reach me:
