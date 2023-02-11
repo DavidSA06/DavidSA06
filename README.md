@@ -5,16 +5,17 @@ I am David Silva, MSc in Applied Physics. I did my research on electronic noses 
 ### :computer: Software and technology that I am familiar with.
       
 <div id="icons">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino Icon" title="Arduino"/>
+  <img src="https://skillicons.dev/icons?i=arduino" width="50" height="50" alt="Arduino Icon" title="Arduino"/>
   <a href="https://deepnote.com/@david-silva-apango">
-    <img src="https://avatars.githubusercontent.com/u/45339858?s=200&v=4" width="50" height="50"  alt="Deepnote Icon" title="Deepnote (click to see my profile)"/>
+    <img src="https://static.crozdesk.com/web_app_library/providers/logos/000/012/667/original/deepnote-1619699007-logo.png?1619699007" width="50" height="50"  alt="Deepnote Icon" title="Deepnote (click to see my profile)"/>
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="git Icon" title="git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub Icon" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub Icon" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5 Icon" title="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="jupyter Icon" title="jupyter notebook"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" width="50" height="50" alt="LabView Icon" title="LabView"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50" alt="Latex Icon" alt="Latex Icon" title="LATEX"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" width="50" height="50" alt="LabView Icon" title="LabView"/>
+  <img src="https://skillicons.dev/icons?i=latex" width="50" height="50" alt="Latex Icon" title="LATEX"/>
+  <img src="https://skillicons.dev/icons?i=md" width="50" height="50" alt="Markdown Icon" title="Markdown"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50" alt="MATLAB Icon" title="MATLAB"/>
   <img src="https://companieslogo.com/img/orig/MCHP-167156da.png?t=1648759881" width="50" height="50" alt="Microchip Icon" title="Microchip"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" width="50" height="50" alt="Minitab Icon" title="Minitab"/>
