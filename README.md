@@ -11,6 +11,7 @@ I am David Silva, MSc in Applied Physics. I did my research on electronic noses 
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="git Icon" title="git"/>
   <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub Icon" title="GitHub"/>
+  <img src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" width="50" height="50" alt="Google Colab Icon" title="Google Colab"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5 Icon" title="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="jupyter Icon" title="jupyter notebook"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" width="50" height="50" alt="LabView Icon" title="LabView"/>
@@ -20,10 +21,12 @@ I am David Silva, MSc in Applied Physics. I did my research on electronic noses 
   <img src="https://companieslogo.com/img/orig/MCHP-167156da.png?t=1648759881" width="50" height="50" alt="Microchip Icon" title="Microchip"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" width="50" height="50" alt="Minitab Icon" title="Minitab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="Numpy Icon" title="Numpy"/>
+  <img src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" width="50" height="50" alt="Overleaf Icon" title="Overleaf"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python Icon" title="Python"/>
   <a href="https://public.tableau.com/app/profile/david.silva2663">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50" alt="Tableau Icon" title="Tableau (click to see my profile)"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50" alt="Texmaker Icon" title="Texmaker"/>
   </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TeXmaker_New_Logo.svg/1200px-TeXmaker_New_Logo.svg.png" width="50" height="50" alt="Texmaker Icon" title="Texmaker"/>
 <div>
       
 ### :briefcase: Portfolios:
