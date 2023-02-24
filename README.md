@@ -79,7 +79,7 @@ I am David Silva, MSc in Applied Physics. I did my research on electronic noses 
 
 <hr>
 
-### 🔥 My stats
+### :bar_chart: My stats
       
 <img src="https://komarev.com/ghpvc/?username=DavidSA06&style=flat-square&color=blue" alt=""/>
 <br>
