@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am David Silva, MSc in Applied Physics. I did my research on electronic noses and gas sensors and I am interested in Data Science.
+I am David Silva, MSc in Applied Physics. I did my research on electronic noses and gas sensors. I am interested in Data Science.
 
 ### :computer: Software and technology that I am familiar with.
       
