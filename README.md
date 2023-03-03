@@ -9,6 +9,9 @@ I am David Silva, MSc in Applied Physics. I did my research on electronic noses 
   <a href="https://deepnote.com/@david-silva-apango">
     <img src="https://static.crozdesk.com/web_app_library/providers/logos/000/012/667/original/deepnote-1619699007-logo.png?1619699007" width="50" height="50"  alt="Deepnote Icon" title="Deepnote (click to see my profile)"/>
   </a>
+  <a href="https://www.geogebra.org/u/davidsa06">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/2048px-Geogebra.svg.png" width="50" height="50"  alt="Geogebra Icon" title="Geogebra (click to see my profile)"/>
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="git Icon" title="git"/>
   <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub Icon" title="GitHub"/>
   <img src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" width="50" height="50" alt="Google Colab Icon" title="Google Colab"/> 
