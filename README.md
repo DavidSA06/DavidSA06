@@ -80,7 +80,7 @@ I am David Silva, MSc in Applied Physics. I did my research on electronic noses 
   <a href="https://myanimelist.net/profile/DavidSA06">
     <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="My Anime List Badge"/>
   </a>
-  <a href="">
+  <a href="https://steamcommunity.com/profiles/76561198045571750/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
 <br>
