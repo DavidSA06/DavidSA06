@@ -18,7 +18,7 @@ I am David Silva, MSc in Applied Physics. I did my research on electronic noses 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5 Icon" title="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="jupyter Icon" title="jupyter notebook"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" width="50" height="50" alt="LabView Icon" title="LabView"/>
-  <img src="https://skillicons.dev/icons?i=latex" width="50" height="50" alt="Latex Icon" title="LATEX"/>
+  <img src="https://skillicons.dev/icons?i=latex" width="50" height="50" alt="LaTeX Icon" title="LaTeX"/>
   <img src="https://skillicons.dev/icons?i=md" width="50" height="50" alt="Markdown Icon" title="Markdown"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50" alt="MATLAB Icon" title="MATLAB"/>
   <img src="https://companieslogo.com/img/orig/MCHP-167156da.png?t=1648759881" width="50" height="50" alt="Microchip Icon" title="Microchip"/>
