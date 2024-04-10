@@ -53,7 +53,7 @@ I am David Silva, MSc in Applied Physics. I did my research on electronic noses 
   <a href="https://replit.com/@DavidSA061">
     <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge"/>
   </a>
-  <a href="https://www.duolingo.com/profile/jaeger06">
+  <a href="https://www.duolingo.com/profile/davidsa06">
     <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo Badge"/>
   </a>
   <a href="https://davidsilvaapango.gumroad.com/">
