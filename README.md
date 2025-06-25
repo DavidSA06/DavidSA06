@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am David Silva, MSc in Applied Physics. I did my research on electronic noses and gas sensors. I am interested in Data Science.
+My name is David Silva. I hold a Master’s degree in Applied Physics and am the founder of the educational platform <a href="https://www.johzu.com">johzu.com</a>, which is featured in academic textbooks. My research has focused on electronic noses and gas sensors, and I maintain a strong interest in Data Science.
 
 ### :computer: Software and technology that I am familiar with.
       
