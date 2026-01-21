@@ -100,7 +100,7 @@ My name is David Silva. I hold a Master’s degree in Applied Physics and am the
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSA06&theme=tokyonight&layout=compact&langs_count=8"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSA06&theme=tokyonight"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DavidSA06&theme=tokyonight" alt="GitHub Streak" /></a>
       
 ![DavidSA06's github stats](https://github-readme-stats.vercel.app/api?username=DavidSA06&show_icons=true&theme=tokyonight)
 
